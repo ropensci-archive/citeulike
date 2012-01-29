@@ -13,5 +13,6 @@ Depends:
     XML,
     plyr
 Collate:
-    'numcites.r'
     'users.r'
+    'posts.r'
+    'tags.r'

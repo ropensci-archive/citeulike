@@ -22,3 +22,5 @@ xpathApply(posts[[1]], "//post")
 
 xmlToList(posts[[1]])
 xmlAttrs(posts[[1]])
+
+require(RCurl); require(XML); require(plyr)
