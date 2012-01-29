@@ -1,5 +1,5 @@
 #' Get CiteUlike tags for a DOI. 
-#' @import XML RCurl plyr
+#' @import XML RCurl plyr wordcloud
 #' @param doi DOI of the article.
 #' @return Tags on the DOI.
 #' @export

@@ -11,7 +11,8 @@ URL: https://github.com/ropensci/citeulike
 Depends:
     RCurl,
     XML,
-    plyr
+    plyr,
+    wordcloud
 Collate:
     'users.r'
     'posts.r'
