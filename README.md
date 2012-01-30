@@ -1,4 +1,4 @@
-# `citeulike`
+# citeulike #
 
 Install is install_github within Hadley's [devtools](https://github.com/hadley/devtools) package.
 
