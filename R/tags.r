@@ -12,10 +12,13 @@
 tags <-
   
 function(doi, summary = FALSE, wordcloud = FALSE,
-         url = 'http://www.citeulike.org/api/posts/for/doi/')
+         url = 'http://www.citeulike.org/api/posts/for/doi/',
+#          url = 'http://www.citeulike.org/json/doi/'
+         )
 {
   if(wordcloud==TRUE){summary <- TRUE} else{summary <- FALSE} 
   url <- paste(url, doi, sep='')
+#   fromJSON(url)  
   tags <- xpathApply(xmlParse(getURL(url)), "//tag")
   out <- sapply(tags, xmlValue)
   if(summary == FALSE){out} else
