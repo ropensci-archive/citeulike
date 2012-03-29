@@ -17,3 +17,5 @@ Collate:
     'users.r'
     'posts.r'
     'tags.r'
+    'byuser.r'
+    'culsearch.r'
