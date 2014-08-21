@@ -1,4 +1,11 @@
-# citeulike #
+citeulike
+=========
+
+## UPDATE as of 2014-08-20
+
+This package will undergo no further development.
+
+## Info
 
 Install is install_github within Hadley's [devtools](https://github.com/hadley/devtools) package.
 
