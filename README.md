@@ -20,3 +20,5 @@ Some documentation here:
 + http://wiki.citeulike.org/index.php/Importing_and_Exporting#JSON
 
 I don't know of any official CiteULike API documentation, but if you do email us the location on at ropensci@gmail.com.
+
+[![ropensci_footer](https://ropensci.org/public_images/github_footer.png)](https://ropensci.org)
