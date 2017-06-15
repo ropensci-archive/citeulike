@@ -1,11 +1,11 @@
 citeulike
 =========
-[![Travis-CI Build Status](https://travis-ci.org/ropensci/getCRUCLdata.svg?branch=master)](https://travis-ci.org/)
-[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/ropensci/getCRUCLdata?branch=master&svg=true)](https://ci.appveyor.com/project/ropensci/getCRUCLdata)
-[![codecov](https://codecov.io/gh/ropensci/getCRUCLdata/branch/master/graph/badge.svg)](https://codecov.io/gh/ropensci/getCRUCLdata)
-[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/getCRUCLdata)](https://cran.r-project.org/package=getCRUCLdata)
-[![rstudio mirror downloads](http://cranlogs.r-pkg.org/badges/getCRUCLdata?color=blue)](https://github.com/metacran/cranlogs.app)
-[![rstudio mirror downloads](http://cranlogs.r-pkg.org/badges/grand-total/getCRUCLdata?color=blue)](https://github.com/metacran/cranlogs.app)
+[![Travis-CI Build Status](https://travis-ci.org/ropensci/citeulike.svg?branch=master)](https://travis-ci.org/)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/ropensci/citeulike?branch=master&svg=true)](https://ci.appveyor.com/project/ropensci/citeulike)
+[![codecov](https://codecov.io/gh/ropensci/citeulike/branch/master/graph/badge.svg)](https://codecov.io/gh/ropensci/citeulike)
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/citeulike)](https://cran.r-project.org/package=citeulike)
+[![rstudio mirror downloads](http://cranlogs.r-pkg.org/badges/citeulike?color=blue)](https://github.com/metacran/cranlogs.app)
+[![rstudio mirror downloads](http://cranlogs.r-pkg.org/badges/grand-total/citeulike?color=blue)](https://github.com/metacran/cranlogs.app)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.466812.svg)](https://doi.org/10.5281/zenodo.466812)
 
 ## UPDATE as of 2014-08-20
